@@ -1,0 +1,11 @@
+.VS-Image{
+    height: 35vmin;
+    pointer-events: none;
+    position: relative;
+    left: 50;
+    right: 50;
+}
+
+.main-card{
+    margin-top: 5%;
+}
